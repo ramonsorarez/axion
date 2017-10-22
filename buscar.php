@@ -17,7 +17,7 @@ $html =
             <br />
             <p><input type="submit" value="Buscar" /></p>
         </form>   
-    </fieldset> 
+    </fieldset> asdsdads
 </div>
 HTML;
 
